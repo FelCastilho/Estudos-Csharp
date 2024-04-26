@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\couti\\OneDrive\\\u00C1rea de Trabalho\\Cursos de programa\u00E7\u00E3o\\C#\\Exercicios\\IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA4067D-2428-4DD6-BE2D-06CFAB7CE685}|IMC\\IMC.csproj|c:\\users\\couti\\onedrive\\\u00E1rea de trabalho\\cursos de programa\u00E7\u00E3o\\c#\\exercicios\\imc\\imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA4067D-2428-4DD6-BE2D-06CFAB7CE685}|IMC\\IMC.csproj|solutionrelative:imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\couti\\OneDrive\\\u00C1rea de Trabalho\\Cursos de programa\u00E7\u00E3o\\C#\\Exercicios\\IMC\\IMC\\Program.cs",
+              "RelativeDocumentMoniker": "IMC\\Program.cs",
+              "ToolTip": "C:\\Users\\couti\\OneDrive\\\u00C1rea de Trabalho\\Cursos de programa\u00E7\u00E3o\\C#\\Exercicios\\IMC\\IMC\\Program.cs",
+              "RelativeToolTip": "IMC\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:02:03.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

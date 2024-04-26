@@ -1,0 +1,7 @@
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.exe.config
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.pdb
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.AssemblyReference.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplicando matrizes", "Multiplicando matrizes\Multiplicando matrizes.csproj", "{FD7C6016-59FF-4851-A5E6-9C71812AB964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7C6016-59FF-4851-A5E6-9C71812AB964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7C6016-59FF-4851-A5E6-9C71812AB964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7C6016-59FF-4851-A5E6-9C71812AB964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7C6016-59FF-4851-A5E6-9C71812AB964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D43A07A-A0F9-493B-98F8-CD62A3EA9A5E}
+	EndGlobalSection
+EndGlobal

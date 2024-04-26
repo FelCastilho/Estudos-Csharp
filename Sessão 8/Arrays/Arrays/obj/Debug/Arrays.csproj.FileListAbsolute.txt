@@ -1,0 +1,7 @@
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Sessão 8\Arrays\Arrays\obj\Debug\Arrays.pdb

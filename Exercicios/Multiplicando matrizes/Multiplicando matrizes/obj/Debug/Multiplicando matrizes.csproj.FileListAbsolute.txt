@@ -1,0 +1,7 @@
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\bin\Debug\Multiplicando matrizes.exe.config
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\bin\Debug\Multiplicando matrizes.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\bin\Debug\Multiplicando matrizes.pdb
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\obj\Debug\Multiplicando matrizes.csproj.AssemblyReference.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\obj\Debug\Multiplicando matrizes.csproj.CoreCompileInputs.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\obj\Debug\Multiplicando matrizes.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\Multiplicando matrizes\Multiplicando matrizes\obj\Debug\Multiplicando matrizes.pdb

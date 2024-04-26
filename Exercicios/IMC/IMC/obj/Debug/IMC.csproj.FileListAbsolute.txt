@@ -1,0 +1,7 @@
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\IMC\IMC\obj\Debug\IMC.pdb

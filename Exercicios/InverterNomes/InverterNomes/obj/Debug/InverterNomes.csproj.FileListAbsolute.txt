@@ -1,0 +1,7 @@
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Users\couti\OneDrive\Área de Trabalho\Cursos de programação\C#\Exercicios\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb
